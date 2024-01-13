@@ -1,3 +1,3 @@
 # Tableau-Dashboard
 
-I created the dashboard for a graduate level Data Visualization course following instructions in the Practical Tableau textbook by Ryan Sleeper. I created the dashboard by connecting to a database in Tableau and generating three interactive graphs that I released to Tableau Public.
+I created the interactive dashboard for a graduate Data Visualization course by following instructions in the Practical Tableau textbook by Ryan Sleeper. I imported the data by connecting to an external database and created the data visualizations by dragging the fields to the shelves and marks card to create custom graphs and charts. After creating the data visualizations, I realased the dasboard to Tableau Public. 
